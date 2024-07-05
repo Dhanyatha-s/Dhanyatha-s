@@ -2,3 +2,6 @@
 
 
 
+<h1 align="center">Hi 👋, I'm Dhanyatha</h1>
+<h3 align="center">I Believe I can and I'm halfway there :) I'm passionate about learning and implementing waht i learn</h3>
+<h4 align= "center"><b>ಮನಸ್ಸಿದ್ದರೆ ಮಾರ್ಗ</b></h4> 

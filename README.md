@@ -1,33 +1,42 @@
 <div align="center">
+<img src = "https://i.pinimg.com/1200x/6f/fb/21/6ffb216c31ebff2a0876b23285b2f2f8.jpg">
+<h1>DHANYATHA S</h1>
 
-<!-- ANIMATED MATRIX RAIN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=DHANYATHA%20S.&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20ML%20SPECIALIST%20%7C%20COMPUTER%20VISION%20EXPERT&descSize=20&descAlignY=55" />
+<!-- ASCII ROCKET ART -->
+```
+        🚀
+       /||\
+      / || \
+     /  ||  \
+    |   ||   |     ░█████╗░██╗  ██████╗░███████╗██╗░░░██╗███████╗██╗░░░░░░█████╗░██████╗░███████╗██████╗░
+    |   ||   |     ██╔══██╗██║  ██╔══██╗██╔════╝██║░░░██║██╔════╝██║░░░░░██╔══██╗██╔══██╗██╔════╝██╔══██╗
+    |___||___|     ███████║██║  ██║░░██║█████╗░░╚██╗░██╔╝█████╗░░██║░░░░░██║░░██║██████╔╝█████╗░░██████╔╝
+     \__||__/      ██╔══██║██║  ██║░░██║██╔══╝░░░╚████╔╝░██╔══╝░░██║░░░░░██║░░██║██╔═══╝░██╔══╝░░██╔══██╗
+      \ || /       ██║░░██║██║  ██████╔╝███████╗░░╚██╔╝░░███████╗███████╗╚█████╔╝██║░░░░░███████╗██║░░██║
+       \||/        ╚═╝░░╚═╝╚═╝  ╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚══════╝░╚════╝░╚═╝░░░░░╚══════╝╚═╝░░╚═╝
+        \/
+      💨💨💨                              
+```
+
+
+### 🎯 AI/ML Engineer | 🐍 Python | 👁️ Computer Vision | ☁️ MLOps
+### 🏆 13+ Months Production Experience | ⚡ 99.9% Uptime Achievement
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Computer+Vision+%2B+Deep+Learning;Real-time+ML+%7C+MLOps+%7C+Cloud" alt="Typing SVG" />
+
+</div>
+
+<br>
+
 <div align="center">
+
+
 
 <!-- ANIMATED DIVIDER WITH CODE -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 </div>
 
-
-<!-- ANIMATED SNAKE GAME EATING CONTRIBUTIONS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanyatha-s/Dhanyatha-s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanyatha-s/Dhanyatha-s/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhanyatha-s/Dhanyatha-s/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<!-- PIXEL ART STYLE TITLE -->
-```
-███████╗████████╗ █████╗ ██████╗ ████████╗    ██████╗  █████╗ ███╗   ███╗███████╗
-██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝    ██╔════╝ ██╔══██╗████╗ ████║██╔════╝
-███████╗   ██║   ███████║██████╔╝   ██║       ██║  ███╗███████║██╔████╔██║█████╗  
-╚════██║   ██║   ██╔══██║██╔══██╗   ██║       ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝  
-███████║   ██║   ██║  ██║██║  ██║   ██║       ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%8E%AE+LEVEL+24+AI+ENGINEER+%7C+%E2%9A%94%EF%B8%8F+13%2B+MONTHS+XP;%F0%9F%8F%86+QUEST+SUCCESS+RATE%3A+95%25+%7C+%F0%9F%94%A5+99.9%25+UPTIME;%F0%9F%A7%A0+BUILDING+PRODUCTION+AI+SYSTEMS;%F0%9F%91%81%EF%B8%8F+COMPUTER+VISION+%7C+%E2%98%81%EF%B8%8F+MLOPS+%7C+%F0%9F%90%8D+PYTHON" alt="Animated Header" />
@@ -216,6 +225,7 @@ LEGENDARY ACHIEVEMENT:
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
 
+
 <br/>
 
 ```
@@ -237,17 +247,26 @@ LEGENDARY ACHIEVEMENT:
 ```
 
 <!-- ANIMATED FIRE -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="sql">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" alt="ai">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" alt="gemini-genai">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" alt="fastapi">
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="50" alt="openai">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="50" alt="huggingface">
 
 </div>
 
 ---
 
 
-<!-- ANIMATED CODE TYPING -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+
 
 </div>
 
@@ -502,12 +521,7 @@ POWER METRICS:
 
 <br/><br/>
 
-<!-- ANIMATED FOOTER ELEMENTS -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+
 
 ---
 

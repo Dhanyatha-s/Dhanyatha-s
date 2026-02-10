@@ -2,6 +2,13 @@
 
 <!-- ANIMATED MATRIX RAIN HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=DHANYATHA%20S.&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20ML%20SPECIALIST%20%7C%20COMPUTER%20VISION%20EXPERT&descSize=20&descAlignY=55" />
+<div align="center">
+
+<!-- ANIMATED DIVIDER WITH CODE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
 
 <!-- ANIMATED SNAKE GAME EATING CONTRIBUTIONS -->
 <picture>
@@ -22,30 +29,12 @@
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
 ```
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%8E%AE+LEVEL+24+AI+ENGINEER+%7C+%E2%9A%94%EF%B8%8F+13%2B+MONTHS+XP;%F0%9F%8F%86+QUEST+SUCCESS+RATE%3A+95%25+%7C+%F0%9F%94%A5+99.9%25+UPTIME;%F0%9F%A7%A0+BUILDING+PRODUCTION+AI+SYSTEMS;%F0%9F%91%81%EF%B8%8F+COMPUTER+VISION+%7C+%E2%98%81%EF%B8%8F+MLOPS+%7C+%F0%9F%90%8D+PYTHON" alt="Animated Header" />
 
-<!-- SHOOTING STARS ANIMATION -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-</div>
 
 ---
-
-<div align="center">
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
-## 🗺️ **CHARACTER PROFILE**
-
-<div align="center">
-
-<!-- ANIMATED DEVELOPER CARD -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-</div>
 
 <table align="center">
 <tr>
@@ -110,11 +99,7 @@
 
 <div align="center">
 
-<!-- ANIMATED CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300" align="left">
 
-<br clear="both"/>
 
 ```
                     🎯 CORE EXPERTISE TREE
@@ -201,12 +186,12 @@ LEGENDARY ACHIEVEMENT:
 
 | **🛠️ Category** | **🎮 Equipped Items** |
 |:---:|:---|
-| **⚡ ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white) |
+| **⚡ ML Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |  
+| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white) |  
 | **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
-| **🔧 Dev Tools** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) |
-| **🤖 LLM & GenAI** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white) |
-| **🎨 Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **🔧 Dev Tools** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) | 
+| **🤖 LLM & GenAI** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white) |  
+| **🎨 Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |  
 
 </div>
 
@@ -235,16 +220,16 @@ LEGENDARY ACHIEVEMENT:
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
-║                    🎖️ ACHIEVEMENT SHOWCASE 🎖️                    ║
+║                    🎖️ ACHIEVEMENT SHOWCASE 🎖️                     ║
 ╠════════════════════════════════════════════════════════════════════╣
 ║                                                                    ║
-║  🥇 PIPELINE MASTER         ⚡ SPEED DEMON          💎 ZERO DEFECT ║
-║  ⭐⭐⭐⭐⭐                  ⭐⭐⭐⭐⭐                ⭐⭐⭐⭐⭐        ║
-║  99.9% Uptime Champion      30% Query Boost         1M+ Records   ║
+║  🥇 PIPELINE MASTER         ⚡ SPEED DEMON        💎 ZERO DEFECT  ║
+║  ⭐⭐⭐⭐⭐                  ⭐⭐⭐⭐⭐           ⭐⭐⭐⭐⭐║
+║  99.9% Uptime Champion      30% Query Boost          1M+ Records   ║
 ║  10M+ Rows Weekly          SQL Optimization         Bug-Free      ║
 ║                                                                    ║
 ║  🎯 VISION ARCHITECT        🤖 AI INNOVATOR         ⚙️ AUTOMATOR   ║
-║  ⭐⭐⭐⭐⭐                  ⭐⭐⭐⭐⭐                ⭐⭐⭐⭐⭐        ║
+║  ⭐⭐⭐⭐⭐                  ⭐⭐⭐⭐⭐     ⭐⭐⭐⭐⭐        ║
 ║  95% Gesture Detection     92% YOLO Accuracy       40% Efficiency ║
 ║  30+ FPS Real-time         Custom Fine-tuning      Time Saved     ║
 ║                                                                    ║
@@ -260,84 +245,6 @@ LEGENDARY ACHIEVEMENT:
 
 ---
 
-## 🎮 **COMPLETED QUESTS & BOSS BATTLES**
-
-### 🏢 **MAIN CAMPAIGN MISSIONS**
-
-<details open>
-<summary><b>⚔️ QUEST 1: The Pipeline Guardian | Abylle Solutions</b> ⭐⭐⭐⭐⭐</summary>
-
-```
-📅 Duration: Oct 2024 - Feb 2025
-🎭 Role: Python Developer & Data Engineer Intern
-🌍 Location: Bangalore Tech Kingdom
-
-OBJECTIVES COMPLETED:
-✅ Designed RESTful API dungeons using Flask
-✅ Analyzed 10M+ row datasets with exploratory magic
-✅ Implemented automated validation shields (+40% accuracy)
-✅ Optimized SQL query spells (-30% execution time)
-✅ Maintained legendary ETL pipelines (99.9% uptime, 6+ months)
-✅ Crafted Power BI dashboards for real-time intel
-
-REWARDS EARNED:
-🏆 Production Pipeline Mastery
-🏆 Cross-functional Communication Skill +10
-🏆 Business Impact: Operational Efficiency +40%
-```
-
-</details>
-
-<details>
-<summary><b>⚔️ QUEST 2: The Data Science Trial | Knowx Innovations</b> ⭐⭐⭐⭐</summary>
-
-```
-📅 Duration: Aug 2022 - Sep 2022
-🎭 Role: Data Science Intern
-🌍 Location: Bangalore Research Labs
-
-OBJECTIVES COMPLETED:
-✅ Developed crime forecasting predictive models
-✅ Applied feature engineering enchantments
-✅ Implemented PyTest & Unittest testing protocols
-✅ Achieved zero critical defects across 1M+ records
-✅ Created efficiency dashboards (-25% processing time)
-✅ Automated data extraction routines (+40% speed)
-
-REWARDS EARNED:
-🏆 Testing Framework Expertise
-🏆 Model Validation Mastery
-🏆 Dashboard Design Skills
-```
-
-</details>
-
-<details>
-<summary><b>⚔️ QUEST 3: The Gesture Wizard | Freelance Mission</b> ⭐⭐⭐⭐⭐</summary>
-
-```
-📅 Duration: Mar 2025
-🎭 Role: Freelance Software Developer
-🌍 Location: Independent Operations
-
-OBJECTIVES COMPLETED:
-✅ Built gesture-based P2P file transfer system
-✅ Implemented MediaPipe & OpenCV vision magic
-✅ Achieved 95% accuracy at 30+ FPS
-✅ Designed secure P2P architecture (SSL/TLS)
-✅ Delivered file transfer speeds: 50MB/s
-
-REWARDS EARNED:
-🏆 Computer Vision Specialization
-🏆 Real-time System Design
-🏆 Network Security Expertise
-```
-
-</details>
-
----
-
-<div align="center">
 
 <!-- ANIMATED CODE TYPING -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
@@ -559,28 +466,10 @@ POWER METRICS:
 
 ---
 
-<div align="center">
-
-<!-- ANIMATED CIRCUIT BOARD -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-</div>
 
 ## 📬 **CONTACT & GUILD INVITATIONS**
 
 <div align="center">
-
-<!-- ANIMATED HANDSHAKE -->
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="200" />
-
-<br/>
-
-### **🎮 PRESS START TO CONNECT 🎮**
-
-<!-- ANIMATED BUTTONS -->
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-
-<br/>
 
 <a href="mailto:dhanyatha237.y@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
@@ -591,16 +480,12 @@ POWER METRICS:
 <a href="https://github.com/Dhanyatha-s">
 <img src="https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
-<a href="tel:+917338544326">
+<a href="tel:+917483078326">
 <img src="https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Phone"/>
 </a>
 
 <br/><br/>
 
-<!-- ANIMATED TYPING CODE -->
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
-
-<br/>
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -626,7 +511,5 @@ POWER METRICS:
 
 ---
 
-<!-- FINAL ANIMATED WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&animation=twinkling" />
 
 </div>

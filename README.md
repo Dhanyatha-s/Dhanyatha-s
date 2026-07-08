@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "https://i.pinimg.com/1200x/6f/fb/21/6ffb216c31ebff2a0876b23285b2f2f8.jpg">
+<!-- <img src = "https://i.pinimg.com/1200x/6f/fb/21/6ffb216c31ebff2a0876b23285b2f2f8.jpg"> -->
 <h1>DHANYATHA S</h1>
 
 <!-- ASCII ROCKET ART -->
@@ -398,94 +398,44 @@ POWER METRICS:
 
 ---
 
-<div align="center">
 
-<!-- ANIMATED STATS DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
-
-</div>
-
-## 📊 **PLAYER STATS & ANALYTICS**
-
-<div align="center">
-
-<!-- ANIMATED GRAPH -->
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanyatha-s&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&border_color=00FFFF&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanyatha-s&theme=radical&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&background=0D1117&border=00FFFF&stroke=00FFFF" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanyatha-s&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&border_color=00FFFF&langs_count=8" alt="Top Languages" height="180"/>
-
-<!-- ANIMATED CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanyatha-s&custom_title=Dhanyatha's%20Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&area=true&hide_border=false&border_color=00FFFF" alt="Contribution Graph" />
-
-</div>
 
 ---
 
 ## 🎓 **TRAINING & CERTIFICATIONS**
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="60%">
+
+## 🏆 Achievement
 
 | 🏆 **Achievement** | 🎯 **Details** | ⭐ **Mastery** |
 |:---|:---|:---:|
-| **Bachelor of Engineering** | Computer Science, AIEMS, Bangalore | 8.57/10 CGPA |
+| **Bachelor of Engineering** | Computer Science, AIEMS, Bangalore | **8.57/10 CGPA** |
 | **GenAI Fundamentals** | Advanced AI/ML Concepts | ✅ Certified |
 | **AWS Cloud Essentials** | Cloud Infrastructure & Services | ✅ Certified |
 | **Data Analytics** | Advanced Analytics Techniques | ✅ Certified |
 | **Python Programming** | Expert Level Mastery | ✅ Certified |
 | **Cyber Security IS23** | Security Best Practices | ✅ Certified |
 
-</div>
+</td>
 
----
+<td valign="top" width="40%">
 
-## 🌍 **LANGUAGE PROFICIENCY**
+## 🌍 Language Proficiency
 
-<div align="center">
-
-```
+```text
 🗣️ Kannada  ████████████████████ 100% (Native)
 🗣️ English  ██████████████████░░  90% (Fluent)
 🗣️ Hindi    ██████████████████░░  90% (Fluent)
 🗣️ German   ████░░░░░░░░░░░░░░░░  20% (A1)
 ```
 
-</div>
-
+</td>
+</tr>
+</table>
 ---
-
-## 🎯 **SEEKING NEXT QUEST**
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║     🎮 READY TO JOIN YOUR PARTY FOR THE NEXT ADVENTURE! 🎮       ║
-║                                                                   ║
-║  Looking for challenging roles in:                                ║
-║  ├─ 🧠 Machine Learning Engineering                              ║
-║  ├─ 👁️ Computer Vision Development                               ║
-║  ├─ ☁️ MLOps & AI Infrastructure                                 ║
-║  ├─ 🔮 AI/ML Research & Innovation                               ║
-║  └─ 🚀 Full-Stack AI Solutions                                   ║
-║                                                                   ║
-║  PREFERRED QUEST DIFFICULTY: MEDIUM TO LEGENDARY                  ║
-║  AVAILABLE FOR: IMMEDIATE DEPLOYMENT                              ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-
 ## 📬 **CONTACT & GUILD INVITATIONS**
 
 <div align="center">
@@ -503,18 +453,7 @@ POWER METRICS:
 <img src="https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Phone"/>
 </a>
 
-<br/><br/>
 
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║  "Code is poetry. AI is magic. Production is reality."   ║
-║                                                           ║
-║  💡 The best model is the one running in production.     ║
-║  ⚡ The best code is the one solving real problems.      ║
-║  🎯 The best engineer is the one who never stops learning.║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 <!-- ANIMATED COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Dhanyatha-s&label=🎮%20Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
